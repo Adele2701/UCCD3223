@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application2</string>
+
+    <string name="title_1">Equal Break Down</string>
+    <string name="amount">Please enter total bill amount (RM): </string>
+    <string name="ttl_amount_1">Eg: 67.40</string>
+    <string name="people">Please enter number of people: </string>
+    <string name="ppl_no_1">Eg: 5</string>
+    <string name="calculate">Calculate</string>
+
+    <string name="title_2">Custom Break Down (Percentage)</string>
+    <string name="ttl_amount_2">Eg: 70</string>
+    <string name="ppl_no_2">Eg: 3</string>
+    <string name="ratio">Please enter the percentage(%): </string>
+
+    <string name="title_3">Custom Break Down (Amount)</string>
+    <string name="ttl_amount_3">Eg: 72.60</string>
+    <string name="ppl_no_3">Eg: 4</string>
+    <string name="ind_amount">Please enter the amount (RM): </string>
+    <string name="verify">Verification</string>
+    <string name="history">Record</string>
+    <string name="name">The amount</string>
+
+    //Validation
+    <string name="warning_per">Invalid percentages!</string>
+    <string name="warning_amt">Invalid inputs! Totaled amount not tally with total bill. \nPlease revise!</string>
+
+</resources>
